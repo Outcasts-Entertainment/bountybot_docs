@@ -27,4 +27,4 @@ All money gotten through this project wil go straight to Outcasts as funds to cr
 - verify-bounty: Verify a bounty when one is ready for verification
 - leaderboard: Get the leaderboard of most bounties completed
 - buy-license: Buy a premium license to unlock all features (+ future features)
-- donate: Donate some money to help maintain this bot and future projects of Outcasts`
+- donate: Donate some money to help maintain this bot and future projects of Outcasts
