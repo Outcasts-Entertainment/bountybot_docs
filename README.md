@@ -1,1 +1,1 @@
-# outcasts.github.io
+# Bounty Bot
