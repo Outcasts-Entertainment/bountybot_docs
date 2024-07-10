@@ -18,7 +18,7 @@ All money gotten through this project wil go straight to Outcasts as funds to ma
 ## Commands
 
 - ping: Hello, are you responsive?
-- help: Shows this menu
+- help: Shows help menu with all commands
 - create-bounty: Create a new bounty
 - delete-bountry: Remove an existing bounty
 - bounties: Shows a list of all bounties
